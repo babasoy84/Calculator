@@ -1,0 +1,161 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\babas\\Documents\\Step IT Academy\\WPF\\Calculator ( WPF )\\Calculator ( WPF )\\Calculator ( WPF ).csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\babas\\Documents\\Step IT Academy\\WPF\\Calculator ( WPF )\\Calculator ( WPF )\\Calculator ( WPF ).csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\babas\\Documents\\Step IT Academy\\WPF\\Calculator ( WPF )\\Calculator ( WPF )\\Calculator ( WPF ).csproj",
+        "projectName": "Calculator ( WPF )",
+        "projectPath": "C:\\Users\\babas\\Documents\\Step IT Academy\\WPF\\Calculator ( WPF )\\Calculator ( WPF )\\Calculator ( WPF ).csproj",
+        "packagesPath": "C:\\Users\\babas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\babas\\Documents\\Step IT Academy\\WPF\\Calculator ( WPF )\\Calculator ( WPF )\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\babas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Haley.Abstractions": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            },
+            "Haley.Extensions": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
+            "Haley.Helpers": {
+              "target": "Package",
+              "version": "[2.1.3, )"
+            },
+            "Haley.IOC": {
+              "target": "Package",
+              "version": "[3.0.6, )"
+            },
+            "Haley.MVVM": {
+              "target": "Package",
+              "version": "[6.2.4, )"
+            },
+            "Haley.WPF": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "Microsoft.Bcl.AsyncInterfaces": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Microsoft.Xaml.Behaviors.Wpf": {
+              "target": "Package",
+              "version": "[1.1.39, )"
+            },
+            "System.Buffers": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            },
+            "System.CodeDom": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Collections.Immutable": {
+              "target": "Package",
+              "version": "[1.7.1, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Management": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.5.4, )"
+            },
+            "System.Numerics.Vectors": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Security.AccessControl": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Security.Cryptography.Xml": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Security.Principal.Windows": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Text.Encodings.Web": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "System.Threading.Tasks.Extensions": {
+              "target": "Package",
+              "version": "[4.5.4, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "protobuf-net": {
+              "target": "Package",
+              "version": "[3.0.101, )"
+            },
+            "protobuf-net.Core": {
+              "target": "Package",
+              "version": "[3.0.101, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
